@@ -1,4 +1,4 @@
-# PranjalBajaj2-
+# PranjalBajaj2
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">A passionate Data Annotator, Data Analyst and web Developer</h3>
 
