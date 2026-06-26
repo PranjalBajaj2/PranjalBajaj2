@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranjalBajaj2](https://github.com/PranjalBajaj2)
+- 👨‍💻 All of my projects are available at <a href="https://potfolio-170c0.web.app/">My Portfolio</a>
   
 - 📫 How to reach me **p.bajaj212@gmail.com**
 
