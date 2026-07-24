@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on Project Human
+- 🔭 I’m currently working at TailorInch
 
 - 🌱 I’m currently learning **Flutter**
 
