@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working at TailorInch
+- 🔭 I’m currently working at <a href="https://tailorinch.com/">TailorInch</a>
 
 - 🌱 I’m currently learning **Flutter**
 
