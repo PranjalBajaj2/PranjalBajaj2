@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Flutter and Mobile App Developer</h3>
 
-###
+##
 
 - 🔭 I’m currently working at <a href="https://tailorinch.com/">TailorInch</a>
 
@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **p.bajaj212@gmail.com**
 
-###
+##
 
 <h3 align="left">Languages and Tools:</h3>
 
