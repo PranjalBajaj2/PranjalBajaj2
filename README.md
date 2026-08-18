@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Flutter and Mobile App Developer</h3>
+<h2 align="center">A passionate Flutter and Mobile App Developer</h2>
 
 #
 
