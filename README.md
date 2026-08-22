@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 My name is Pranjal</h1>
 
-###
+##
 
 <h2 align="center">A passionate Flutter and Mobile App Developer</h2>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
