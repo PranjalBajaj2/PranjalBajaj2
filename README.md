@@ -4,7 +4,7 @@
 
 <h2 align="center">A passionate Flutter and Mobile App Developer</h2>
 
-#
+# 
 
 - 🔭 I’m currently working at <a href="https://tailorinch.com/">TailorInch</a>
 
@@ -16,11 +16,11 @@
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 ##
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
